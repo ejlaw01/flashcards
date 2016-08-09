@@ -1,0 +1,22 @@
+.container {
+  padding: 10px;
+}
+
+.row {
+  background-color: none;
+  margin-right:-300px;
+}
+
+p {
+  display:none;
+}
+
+h1 {
+  text-align: center;
+}
+
+.col-sm-3 {
+  border: solid black;
+  height: 200px;
+  margin: 5px;
+}
